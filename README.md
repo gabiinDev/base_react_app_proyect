@@ -2,7 +2,9 @@
 
 ## Proyecto Base
 
-Proyecto base para implementar en cualquier aplicación. Incluye redux para auth, login, logout, menu, router
+Proyecto base para implementar en cualquier aplicación. Incluye redux para auth, login, logout, menu, router, axios y más.
+
+Ya se encuentra realizado un login básico. Modificar authActions.tsx con autenticación propia.
 
 ## Especificaciones:
 
@@ -11,6 +13,7 @@ Proyecto base para implementar en cualquier aplicación. Incluye redux para auth
     - Redux
     - Router
     - Semantic UI
+    - Axios
 
 ## Instalacion
 
